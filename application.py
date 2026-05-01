@@ -1,0 +1,1 @@
+from Gre_score_predictor_fastapi import app
